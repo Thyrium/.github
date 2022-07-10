@@ -1,4 +1,5 @@
-## Hi there 👋
+Hello :wave:,
+We are a minecraft survival server. You want to join? Here is our discord [Server Discord](https://discord.gg/gnA6zjKtEB)
 
 ## 🛠 Technologies & tools
 
