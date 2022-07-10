@@ -10,3 +10,7 @@
 ![Database](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=Databases&logoColor=white&color=2bbc8a)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=Database&logoColor=white&color=2bbc8a)
 ![Database](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=Database&logoColor=white&color=2bbc8a)
+
+## 🔗 Contact
+
+**You can contact me on discord ([Scraven#3065](https://discord.com/users/384015647585075210)) or ([.Pαυʟ ♪#6940](https://discord.com/users/381117962091888651)) or by email ([contact@thyrium.fr](mailto:contact@thyrium.fr)).**
